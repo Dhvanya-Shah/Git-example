@@ -1,0 +1,16 @@
+Basic Git Commands:
+1. git init: Initialize a new Git repository. git init
+2. git clone: Create a copy of a remote repository on your local machine. git clone <repository_url>
+3. git add: Stage changes for commit. git add <filename>
+4. git commit: Create a new commit with staged changes. git commit -m "Commit message"
+5. git push: Upload local commits to a remote repository. git push origin <branch_name>
+6. git pull: Fetch remote changes and integrate them into the current branch. git pull origin <branch_name>
+7. git branch: List, create, or delete branches.
+8. git branch
+9. git branch <branch_name> git branch -d <branch_name>
+10. git checkout: Switch to a different branch or commit. git checkout <branch_name>
+11. git merge: Combine changes from one branch into another. git merge <source_branch>
+12. git pull request: Create a pull request on platforms like GitHub or GitLab. This command doesn't exist directly in Git. You perform this action on the platform where your remote repository is hosted.
+
+
+-- Notes from Devops Shack , Thank you for creating awesome notes. 
